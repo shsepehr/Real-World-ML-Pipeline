@@ -1,0 +1,10 @@
+Age,Salary,Department,Target
+25,50000,HR,0
+30,60000,IT,1
+45,80000,Finance,1
+35,65000,IT,0
+22,90000,Finance,0
+50,48000,HR,1
+23,75000,Finance,1
+40,58000,IT,0
+29,66000,HR,0
